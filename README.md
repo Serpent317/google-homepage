@@ -1,0 +1,1 @@
+The goal of the project is to replicate the google home screen. Once I have finished it, I will have demonstrated the ability to set up and clone a repository, and to create a web page with an image and a form.
